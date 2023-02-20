@@ -14,7 +14,8 @@ export const styles = StyleSheet.create({
     resultNumbersText:{
         fontSize: 60,
         color: 'white',
-        textAlign: 'right'
+        textAlign: 'right',
+        marginBottom: 10
     },
     resultLittleText: {
         fontSize: 30,
